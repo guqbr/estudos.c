@@ -21,4 +21,5 @@ int main(){
 
     printf("Nome: %s \nidade: %d \nendereco: %s \n", dados.nome, dados.idade, dados.endereco);
 
-}
+    return 0;
+};
